@@ -1,2 +1,2 @@
-# AzureLearning
+# Azure Learning
 For Azure learning
